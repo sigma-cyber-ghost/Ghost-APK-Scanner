@@ -35,7 +35,7 @@ python3 ghost-scan.py
 ```
 
 ## ⚠️ Black-Hat Disclaimer
-```
+
 This tool is forged in the shadows — made for penetration testers, malware analysts, and cyber-warfare researchers.  
 If you run it against systems, networks, or APKs you **do not own or have permission to test**, you are breaking the law.  
 
@@ -53,7 +53,6 @@ By downloading, running, or even *looking* at this code, you agree to:
 - Never cry to me when the Feds knock.
 
 **You’ve been warned.**
-```
 
 ## 🌐 Connect With Cyber-Ghost
 
